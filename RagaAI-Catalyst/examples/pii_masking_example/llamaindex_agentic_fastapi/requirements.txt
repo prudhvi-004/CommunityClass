@@ -1,4 +1,0 @@
-fastapi
-llama_index
-uvicorn
-llama-index-llms-azure-openai
